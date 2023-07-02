@@ -1,1 +1,1 @@
-#NSIS_Sample_Installer
+# NSIS_Sample_Installer
